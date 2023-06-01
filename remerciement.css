@@ -1,0 +1,123 @@
+.page-wrapper {
+	overflow-y: hidden;
+}
+
+.gratitude {
+	text-align: center;
+	margin-top: 80px;
+	padding: 0px 10px;
+}
+.gratitude h1 {
+	font-size: 40px;
+	font-family: FlisonProReg;
+}
+.gratitude p {
+	font-size: 22px;
+	color: white;
+}
+
+.buy-info {
+	margin-top: 70px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	column-gap: 50px;
+	row-gap: 50px;
+}
+
+.blur-block {
+	padding: 10px 0px !important;
+}
+
+.el {
+	padding: 0px 20px;
+}
+
+.el1 .detail {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	padding: 10px 40px;
+}
+.el1 .detail p {
+	text-align: left;
+	font-size: 18px;
+	margin: 0px;
+}
+.el1 .detail h3 {
+	margin: 0px;
+}
+.el1 .detail p:last-child {
+	margin-left: 100px;
+}
+
+.el1 .total {
+	margin-top: 10px;
+	font-size: 20px;
+}
+.el1 .total .line {
+	width: 100%;
+	height: 2px;
+	background: linear-gradient(to right, #F17981, #CA4BA8);
+	display: inline-block;
+}
+
+.el2 .detail {
+	display: flex;
+	gap: 20px;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	padding: 10px 40px;
+}
+.el2 .detail p {
+	text-align: left;
+	font-size: 17px;
+	margin: 0px;
+}
+.el2 .detail a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+}
+.el2 .lbl {
+	color: white;
+	opacity: .5;
+}
+
+.home {
+	margin-top: 50px;
+	text-align: center;
+}
+.home a {
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	font-size: 16px;
+	padding: 10px 20px;
+	background: linear-gradient(to right, #F17981, #CA4BA8);
+	border-radius: 20px;
+	opacity: .8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
